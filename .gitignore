@@ -1,0 +1,19 @@
+# Ignore temporary and build files
+.dart_tool/
+.flutter-plugins
+.packages
+.pub/
+.pub-cache/
+.idea/
+.vscode/
+*.iml
+
+# Ignore build artifacts
+build/
+
+# Ignore IDE-specific files
+.metadata
+*.DS_Store
+
+# Ignore logs and debugging output
+*.log
